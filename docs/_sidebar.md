@@ -3,5 +3,5 @@
 * kubernetes学习
   * [centos7安装k8s教程](zh-cn/centos7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
-* [elk学习](elk学习.md)
-  * [elk的安装](elk的安装.md)
+* elk学习
+  * [elk的安装](zh-cn/elk的安装.md)
