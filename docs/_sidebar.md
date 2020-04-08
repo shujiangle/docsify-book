@@ -5,3 +5,4 @@
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
 * elk学习
   * [elk的安装](zh-cn/elk的安装.md)
+  * [nginx学习](zh-cn/nginx学习.md)
