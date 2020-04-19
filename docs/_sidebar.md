@@ -2,6 +2,8 @@
 * [指南](zh-cn/guide)
 * linux的基本知识
   * [常用的linux命令](zh-cn/linuxs.md)
+  * [gitlab介绍](zh-cn/gitlab介绍.md)
+  * [](zh-cn/redis学习.md)
 * kubernetes学习
   * [centos7安装k8s教程](zh-cn/centos7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
