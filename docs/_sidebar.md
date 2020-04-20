@@ -1,5 +1,4 @@
 * [首页](zh-cn/首页.md)
-* [指南](zh-cn/guide)
 * linux的基本知识
   * [常用的linux命令](zh-cn/linuxs.md)
   * [gitlab介绍](zh-cn/gitlab介绍.md)
