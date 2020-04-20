@@ -33,10 +33,10 @@ Address: 148.70.34.222
 
 ```
 
-### Linux中如何找出文件的最长行和最短行
+## Linux中如何找出文件的最长行和最短行
 
 ```
- 最短行：awk '(NR==1||length(min)>length()){min=$0}END{print min}'   data.txt
+最短行：awk '(NR==1||length(min)>length()){min=$0}END{print min}'   data.txt
 
 最长行：awk '{if (length(max)<length()) max=$0}END{print max}'  data.txt 
 
