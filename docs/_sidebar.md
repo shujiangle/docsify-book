@@ -3,6 +3,7 @@
   * [常用的linux命令](zh-cn/linuxs.md)
   * [gitlab介绍](zh-cn/gitlab介绍.md)
   * [redis学习](zh-cn/redis学习.md)
+  * [centos 7 源码安装 python3](zh-cn/centos 7 源码安装 python3.md)
 * kubernetes学习
   * [centos7安装k8s教程](zh-cn/centos7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
