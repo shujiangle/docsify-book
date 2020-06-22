@@ -48,6 +48,13 @@ docker run -d \
 初次会先设置管理员密码 ，然后登陆，默认管理员用户名root，密码就是刚设置的。
 密码为  password123qwer
 <br />
+初始化设置
+```
+vim /root/config/gitlab.rb
+external_url 'http://192.168.153.101'
+gitlab_rails['gitlab_ssh_host'] = '192.168.153.101'
+gitlab_rails['gitlab_shell_ssh_port'] = 9998
+```
 ![image_1ea9b2foe19satttqe164b1bkcm.png-82.9kB][2]
 
 ### 1.1.1 新建一个java-demo项目
