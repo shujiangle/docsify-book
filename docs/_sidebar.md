@@ -8,5 +8,6 @@
   * [centos7安装k8s教程](zh-cn/kubernetes/centos7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes/kubernetes新增删除node节点.md)
   * [kubernetes python api使用](zh-cn/kubernetes/kubernetes-python-api使用.md)
+  * [基于Docker构建Jenkins CI平台](zh-cn/kubernetes/基于Docker构建JenkinsCI平台.md)
 * elk学习
   * [elk的安装](zh-cn/elk的安装.md)

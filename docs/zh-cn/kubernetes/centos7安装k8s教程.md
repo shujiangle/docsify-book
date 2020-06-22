@@ -108,6 +108,7 @@ Kubernetes默认CRI（容器运行时）为Docker，因此先安装Docker。
 {
   "registry-mirrors": ["https://6ze43vnb.mirror.aliyuncs.com"]
 }
+EOF
 ```
 
 设置cgroup驱动，推荐systemd：
